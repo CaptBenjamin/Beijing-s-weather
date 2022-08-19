@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>ftp://69.176.89.49/BJW/Install/|ftp://69.176.89.49/BJW/|ftp://69.176.89.49:22/BJW/|ftp://69.176.89.49:22/LYKClientonWindows/|publish\</PublishUrlHistory>
-    <InstallUrlHistory>http://69.176.89.49:81/BJW/Install/|http://69.176.89.49/BJW/Install/|http://69.176.89.49/BJW/|http://69.176.89.49/insiderpreview/BJW/|http://69.176.89/insiderpreview/BJW/</InstallUrlHistory>
+    <PublishUrlHistory>W:\LYKNSDeveloper\BJW\|ftp://69.176.89.49/BJW/Install/|ftp://69.176.89.49/BJW/|ftp://69.176.89.49:22/BJW/|ftp://69.176.89.49:22/LYKClientonWindows/</PublishUrlHistory>
+    <InstallUrlHistory>https://dev.lykns.tk/BJW/|http://69.176.89.49:81/BJW/Install/|http://69.176.89.49/BJW/Install/|http://69.176.89.49/BJW/|http://69.176.89.49/insiderpreview/BJW/</InstallUrlHistory>
     <SupportUrlHistory>http://69.176.89.49/connect|ftp://69.176.89.49:22/BJW/</SupportUrlHistory>
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />

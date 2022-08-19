@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://69.176.89.49/BJW/Install/</PublishUrl>
+    <PublishUrl>W:\LYKNSDeveloper\BJW\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -21,20 +21,20 @@
     <UpdateInterval>7</UpdateInterval>
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
     <UpdatePeriodically>false</UpdatePeriodically>
-    <UpdateRequired>true</UpdateRequired>
+    <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://69.176.89.49:81/BJW/Install/</InstallUrl>
-    <SupportUrl>http://69.176.89.49/connect</SupportUrl>
-    <ErrorReportUrl>http://69.176.89.49:81/BJW/Install</ErrorReportUrl>
+    <InstallUrl>https://dev.lykns.tk/BJW/</InstallUrl>
+    <SupportUrl>https://www.lykns.tk/connect</SupportUrl>
+    <ErrorReportUrl>https://www.lykns.tk</ErrorReportUrl>
     <TargetCulture>zh-CN</TargetCulture>
     <ProductName>北京天气</ProductName>
-    <PublisherName>LYK Network System</PublisherName>
+    <PublisherName>LYKNS</PublisherName>
     <SuiteName>北京天气</SuiteName>
     <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
-    <WebPage>index.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
