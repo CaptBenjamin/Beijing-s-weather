@@ -1,0 +1,10 @@
+G:\source\repos\北京天气\obj\Debug\北京天气.csproj.AssemblyReference.cache
+G:\source\repos\北京天气\obj\Debug\北京天气.Form1.resources
+G:\source\repos\北京天气\obj\Debug\北京天气.Properties.Resources.resources
+G:\source\repos\北京天气\obj\Debug\北京天气.csproj.GenerateResource.cache
+G:\source\repos\北京天气\obj\Debug\北京天气.csproj.CoreCompileInputs.cache
+G:\source\repos\北京天气\bin\Debug\北京天气.exe.config
+G:\source\repos\北京天气\bin\Debug\北京天气.exe
+G:\source\repos\北京天气\bin\Debug\北京天气.pdb
+G:\source\repos\北京天气\obj\Debug\北京天气.exe
+G:\source\repos\北京天气\obj\Debug\北京天气.pdb
