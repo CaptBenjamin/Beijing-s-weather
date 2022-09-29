@@ -1,0 +1,16 @@
+E:\Beijing-s-weather\bin\x64\Release\北京天气.exe.config
+E:\Beijing-s-weather\bin\x64\Release\北京天气.exe.manifest
+E:\Beijing-s-weather\bin\x64\Release\北京天气.application
+E:\Beijing-s-weather\bin\x64\Release\北京天气.exe
+E:\Beijing-s-weather\bin\x64\Release\北京天气.pdb
+E:\Beijing-s-weather\obj\x64\Release\北京天气.csproj.AssemblyReference.cache
+E:\Beijing-s-weather\obj\x64\Release\北京天气.csproj.SuggestedBindingRedirects.cache
+E:\Beijing-s-weather\obj\x64\Release\北京天气.Form1.resources
+E:\Beijing-s-weather\obj\x64\Release\北京天气.Properties.Resources.resources
+E:\Beijing-s-weather\obj\x64\Release\北京天气.csproj.GenerateResource.cache
+E:\Beijing-s-weather\obj\x64\Release\北京天气.csproj.CoreCompileInputs.cache
+E:\Beijing-s-weather\obj\x64\Release\北京天气.TrustInfo.xml
+E:\Beijing-s-weather\obj\x64\Release\北京天气.exe.manifest
+E:\Beijing-s-weather\obj\x64\Release\北京天气.application
+E:\Beijing-s-weather\obj\x64\Release\北京天气.exe
+E:\Beijing-s-weather\obj\x64\Release\北京天气.pdb
